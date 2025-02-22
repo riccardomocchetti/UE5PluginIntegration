@@ -1,3 +1,3 @@
 [submodule "Plugins/UE5Inventory"]
 	path = Plugins/UE5Inventory
-	url = git@github.com:riccardomocchetti/UE5Inventory.git
+	url = https://github.com/riccardomocchetti/UE5InventoryBase.git
