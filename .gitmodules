@@ -1,9 +1,9 @@
 [submodule "Plugins/UE5Inventory"]
 	path = Plugins/UE5Inventory
-	url = git@github.com:Synock/UE5Inventory.git
+	url = https://github.com/riccardomocchetti/UE5InventoryBase.git
 [submodule "Plugins/UE5DialogAndQuestPlugin"]
 	path = Plugins/UE5DialogAndQuestPlugin
-	url = git@github.com:Synock/UE5DialogAndQuestPlugin.git
+	url = https://github.com/riccardomocchetti/UE5DialogAndQuestPlugin.git
 [submodule "Plugins/UE5MultiplayerChatPlugin"]
 	path = Plugins/UE5MultiplayerChatPlugin
-	url = https://github.com/Synock/UE5MultiplayerChatPlugin.git
+	url = https://github.com/riccardomocchetti/UE5MultiplayerChatPlugin.git
